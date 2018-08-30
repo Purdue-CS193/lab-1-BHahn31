@@ -1,6 +1,17 @@
-## Welcome to GitHub Pages
+## BHahn31's first CS Lab
 
 This is a template page
+
+1. number 1
+2. number 2
+3. number 3
+
+- _Bullets_
+- _make_
+- _good_
+- **lists**
+
+`<Code Snippet>`
 
 ### Markdown
 
