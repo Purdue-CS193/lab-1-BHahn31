@@ -1,8 +1,6 @@
-## BHahn31's first CS Lab
-
-# Subtitile
-## Subsubtitle
-### Subsubsubtitle
+# BHahn31's first CS Lab
+## Subtitle
+### Sub-Subtitle
 This is a template page
 
 1. number 1
