@@ -23,12 +23,10 @@ This is a template page
 
 **MARKDOWN**
 
-```Markdown Text
-
+```markdown
 code
 code
 more code
-`
 ```
 
 ### Theme change
