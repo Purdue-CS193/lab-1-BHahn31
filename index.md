@@ -24,9 +24,11 @@ This is a template page
 **MARKDOWN**
 
 ```Markdown Text
-_code_
-_code_
-_more code_
+
+code
+code
+more code
+`
 ```
 
 ### Theme change
